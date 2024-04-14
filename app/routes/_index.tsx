@@ -11,6 +11,7 @@ export default function Index() {
   return (
     <div>
       <h1 className="text-4xl font-bold lg:font-extrabold ">
+        Welcome to Remix - trzecia templatka - nie zachwyca
         Welcome to Remix - trzecia templatka - nic specjalnego
       </h1>
       <ul>
